@@ -8,7 +8,7 @@ const TodoList=()=>{
     const list = [
         {
             todo: "Go to Church",
-            desc: "st Matthews",
+            desc: "st Math",
             id: 1
         },
         {
